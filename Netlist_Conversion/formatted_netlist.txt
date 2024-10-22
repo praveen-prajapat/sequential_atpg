@@ -1,0 +1,64 @@
+# Section 1
+
+    not0 = NOT([in1_t0], n1_t0)
+    not0 = NOT([in1_t0], n2_t0)
+    not0 = NOT([pseudo_input_1_t0], n3_t0)
+    not0 = NOT([n1_t0], n9_t0)
+    not0 = NOT([pseudo_input_2_t0], n10_t0)
+    not0 = NOT([pseudo_input_3_t0], n8_t0)
+    not0 = NOT([n11_t0], n12_t0)
+    not0 = NOT([in2_t0], n14_t0)
+    not0 = NOT([n14_t0], pseudo_int_t0_t1_1)
+    nand0 = NAND([n2_t0, n3_t0], pseudo_int_t0_t1_2)
+# Section 2
+
+    nand0 = NAND([pseudo_input_2_t0, pseudo_input_1_t0], pseudo_int_t0_t1_3)
+    nand0 = NAND([n12_t0, n8_t0], out1_t0)
+    nand0 = NAND([n9_t0, n10_t0], n11_t0)
+    not1 = NOT([in1_t1], n1_t1)
+    not1 = NOT([in1_t1], n2_t1)
+    not1 = NOT([pseudo_int_t0_t1_2], n3_t1)
+    not1 = NOT([n1_t1], n9_t1)
+    not1 = NOT([pseudo_int_t0_t1_1], n10_t1)
+    not1 = NOT([pseudo_int_t0_t1_3], n8_t1)
+    not1 = NOT([n11_t1], n12_t1)
+# Section 3
+
+    not1 = NOT([in2_t1], n14_t1)
+    not1 = NOT([n14_t1], pseudo_int_t1_t2_1)
+    nand1 = NAND([n2_t1, n3_t1], pseudo_int_t1_t2_2)
+    nand1 = NAND([pseudo_int_t0_t1_1, pseudo_int_t0_t1_2], pseudo_int_t1_t2_3)
+    nand1 = NAND([n12_t1, n8_t1], out1_t1)
+    nand1 = NAND([n9_t1, n10_t1], n11_t1)
+    not2 = NOT([in1_t2], n1_t2)
+    not2 = NOT([in1_t2], n2_t2)
+    not2 = NOT([pseudo_int_t1_t2_2], n3_t2)
+    not2 = NOT([n1_t2], n9_t2)
+# Section 4
+
+    not2 = NOT([pseudo_int_t1_t2_1], n10_t2)
+    not2 = NOT([pseudo_int_t1_t2_3], n8_t2)
+    not2 = NOT([n11_t2], n12_t2)
+    not2 = NOT([in2_t2], n14_t2)
+    not2 = NOT([n14_t2], pseudo_int_t2_t3_1)
+    nand2 = NAND([n2_t2, n3_t2], pseudo_int_t2_t3_2)
+    nand2 = NAND([pseudo_int_t1_t2_1, pseudo_int_t1_t2_2], pseudo_int_t2_t3_3)
+    nand2 = NAND([n12_t2, n8_t2], out1_t2)
+    nand2 = NAND([n9_t2, n10_t2], n11_t2)
+    not3 = NOT([in1_t3], n1_t3)
+# Section 5
+
+    not3 = NOT([in1_t3], n2_t3)
+    not3 = NOT([pseudo_int_t1_t2_2], n3_t3)
+    not3 = NOT([n1_t3], n9_t3)
+    not3 = NOT([pseudo_int_t1_t2_1], n10_t3)
+    not3 = NOT([pseudo_int_t1_t2_3], n8_t3)
+    not3 = NOT([n11_t3], n12_t3)
+    not3 = NOT([in2_t3], n14_t3)
+    not3 = NOT([n14_t3], pseudo_output_1_t3)
+    nand3 = NAND([n2_t3, n3_t3], pseudo_output_2_t3)
+    nand3 = NAND([pseudo_int_t1_t2_1, pseudo_int_t1_t2_2], pseudo_output_3_t3)
+# Section 6
+
+    nand3 = NAND([n12_t3, n8_t3], out1_t3)
+    nand3 = NAND([n9_t3, n10_t3], n11_t3)

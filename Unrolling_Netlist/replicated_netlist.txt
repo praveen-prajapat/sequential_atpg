@@ -1,0 +1,57 @@
+# Replicated combinational netlist with timeframes
+not1_t0 n1_t0 in1_t0
+not2_t0 n2_t0 in1_t0
+not3_t0 n3_t0 pseudo_input_1_t0
+not4_t0 n9_t0 n1_t0
+not5_t0 n10_t0 pseudo_input_2_t0
+not6_t0 n8_t0 pseudo_input_3_t0
+not7_t0 n12_t0 n11_t0
+not8_t0 n14_t0 in2_t0
+not9_t0 pseudo_int_t0_t1_1 n14_t0
+nand2_1_t0 pseudo_int_t0_t1_2 n2_t0 n3_t0
+nand2_2_t0 pseudo_int_t0_t1_3 pseudo_input_2_t0 pseudo_input_1_t0
+nand2_3_t0 out1_t0 n12_t0 n8_t0
+nand2_4_t0 n11_t0 n9_t0 n10_t0
+
+not1_t1 n1_t1 in1_t1
+not2_t1 n2_t1 in1_t1
+not3_t1 n3_t1 pseudo_int_t0_t1_2
+not4_t1 n9_t1 n1_t1
+not5_t1 n10_t1 pseudo_int_t0_t1_1
+not6_t1 n8_t1 pseudo_int_t0_t1_3
+not7_t1 n12_t1 n11_t1
+not8_t1 n14_t1 in2_t1
+not9_t1 pseudo_int_t1_t2_1 n14_t1
+nand2_1_t1 pseudo_int_t1_t2_2 n2_t1 n3_t1
+nand2_2_t1 pseudo_int_t1_t2_3 pseudo_int_t0_t1_1 pseudo_int_t0_t1_2
+nand2_3_t1 out1_t1 n12_t1 n8_t1
+nand2_4_t1 n11_t1 n9_t1 n10_t1
+not1_t2 n1_t2 in1_t2
+not2_t2 n2_t2 in1_t2
+not3_t2 n3_t2 pseudo_int_t1_t2_2
+not4_t2 n9_t2 n1_t2
+not5_t2 n10_t2 pseudo_int_t1_t2_1
+not6_t2 n8_t2 pseudo_int_t1_t2_3
+not7_t2 n12_t2 n11_t2
+not8_t2 n14_t2 in2_t2
+not9_t2 pseudo_int_t2_t3_1 n14_t2
+nand2_1_t2 pseudo_int_t2_t3_2 n2_t2 n3_t2
+nand2_2_t2 pseudo_int_t2_t3_3 pseudo_int_t1_t2_1 pseudo_int_t1_t2_2
+nand2_3_t2 out1_t2 n12_t2 n8_t2
+nand2_4_t2 n11_t2 n9_t2 n10_t2
+not1_t3 n1_t3 in1_t3
+not2_t3 n2_t3 in1_t3
+not3_t3 n3_t3 pseudo_int_t1_t2_2
+not4_t3 n9_t3 n1_t3
+not5_t3 n10_t3 pseudo_int_t1_t2_1
+not6_t3 n8_t3 pseudo_int_t1_t2_3
+not7_t3 n12_t3 n11_t3
+not8_t3 n14_t3 in2_t3
+not9_t3 pseudo_output_1_t3 n14_t3
+nand2_1_t3 pseudo_output_2_t3 n2_t3 n3_t3
+nand2_2_t3 pseudo_output_3_t3 pseudo_int_t1_t2_1 pseudo_int_t1_t2_2
+nand2_3_t3 out1_t3 n12_t3 n8_t3
+nand2_4_t3 n11_t3 n9_t3 n10_t3
+
+# First Timeframe Pseudo Inputs: pseudo_input_2_t3, pseudo_input_1_t3, pseudo_input_3_t3
+# Last Timeframe Pseudo Outputs: pseudo_output_1_t3, pseudo_output_2_t3, pseudo_output_3_t3

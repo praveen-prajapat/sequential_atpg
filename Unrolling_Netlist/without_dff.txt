@@ -1,0 +1,14 @@
+# Modified combinational netlist (with reversed pseudo inputs/outputs)
+not1 n1 in1
+not2 n2 in1
+not3 n3 pseudo_input_1
+not4 n9 n1
+not5 n10 pseudo_input_2
+not6 n8 pseudo_input_3
+not7 n12 n11
+not8 n14 in2
+not9 pseudo_output_1 n14
+nand2_1 pseudo_output_2 n2 n3
+nand2_2 pseudo_output_3 pseudo_input_2 pseudo_input_1
+nand2_3 out1 n12 n8
+nand2_4 n11 n9 n10

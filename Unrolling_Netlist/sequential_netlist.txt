@@ -1,0 +1,16 @@
+not1 n1 in1
+not2 n2 in1
+not3 n3 n4
+not4 n9 n1
+not5 n10 n6
+not6 n8 n13
+not7 n12 n11
+not8 n14 in2
+not9 n15 n14
+nand2_1 n5 n2 n3
+nand2_2 n7 n6 n4
+nand2_3 out1 n12 n8
+nand2_4 n11 n9 n10
+dff1 n4 n15
+dff2 n6 n5
+dff3 n13 n7

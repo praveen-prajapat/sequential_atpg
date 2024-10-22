@@ -1,0 +1,311 @@
+2024-10-20 13:31:39,389 [INFO] Starting the circuit simulation...
+2024-10-20 13:31:39,389 [INFO]    n_6_4_ - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,396 [INFO]    n_6_4_ - s.a.1: O: z_3, 1/1
+                   O: z_4, 0/1
+                   O: n_9_44, 1/1
+                   O: n_8_44, 1/1
+                   I: n_1_3, 0/0
+                   I: n_1_4, 1/1
+                   I: n_2_2, 0/0
+2024-10-20 13:31:39,397 [INFO] n_2_4_out - s.a.0: O: n_2_4_out, 1/0
+                   I: n_2_4, 1/1
+2024-10-20 13:31:39,401 [INFO] n_2_4_out - s.a.1: O: n_2_4_out, 0/1
+                   I: n_2_4, 0/0
+2024-10-20 13:31:39,412 [INFO]     n_1_2 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,412 [INFO]     n_1_2 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,423 [INFO]     n_8_1 - s.a.0: O: z_3, 1/1
+                   O: z_1, 1/1
+                   O: z_2, 0/1
+                   I: n_1_2, 1/1
+                   I: n_4, 0/0
+                   I: n_1, 0/0
+2024-10-20 13:31:39,428 [INFO]     n_8_1 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,430 [INFO]     n_3_1 - s.a.0: O: z_1, 1/0
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 0/0
+2024-10-20 13:31:39,433 [INFO]     n_3_1 - s.a.1: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,436 [INFO]    int1_1 - s.a.0: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,440 [INFO]    int1_1 - s.a.1: O: z_1, 1/0
+                   O: z_2, 0/0
+                   I: n_6, 1/1
+                   I: n_1, 1/1
+2024-10-20 13:31:39,446 [INFO]     n_9_2 - s.a.0: O: z_3, 1/0
+                   O: z_4, 0/0
+                   O: z_2, 0/0
+                   I: n_1_2, 1/1
+                   I: n_1_3, 1/1
+                   I: n_2, 1/1
+                   I: n_1, 1/1
+                   I: n_2_2, 1/1
+2024-10-20 13:31:39,449 [INFO]     n_9_2 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,453 [INFO]    n_5_2_ - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,455 [INFO]    n_5_2_ - s.a.1: O: z_3, 1/1
+                   O: z_1, 1/1
+                   O: z_2, 0/1
+                   I: n_1_2, 1/1
+                   I: n_5, 1/1
+                   I: n_4, 1/1
+2024-10-20 13:31:39,455 [INFO]    n_8_33 - s.a.0: O: z_3, 1/1
+                   O: z_4, 0/1
+                   O: n_9_44, 1/1
+                   O: n_8_44, 1/1
+                   I: n_1_3, 0/0
+                   I: n_1_4, 1/1
+                   I: n_2_2, 0/0
+2024-10-20 13:31:39,461 [INFO]    n_8_33 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,461 [INFO]    n_3_3_ - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,464 [INFO]    n_3_3_ - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,464 [INFO]       z_3 - s.a.0: O: z_3, 1/0
+                   I: n_2, 0/0
+2024-10-20 13:31:39,464 [INFO]       z_3 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,464 [INFO]    n_2_33 - s.a.0: O: z_4, 0/0
+                   O: n_8_44, 0/1
+                   I: n_1_3, 1/1
+                   I: n_2_3, 1/1
+2024-10-20 13:31:39,470 [INFO]    n_2_33 - s.a.1: O: z_4, 0/0
+                   O: n_8_44, 1/0
+                   I: n_1_3, 1/1
+                   I: n_2_3, 0/0
+2024-10-20 13:31:39,470 [INFO]     n_t_4 - s.a.0: O: n_2_4_out, 0/1
+                   I: n_2_4, 0/0
+2024-10-20 13:31:39,470 [INFO]     n_t_4 - s.a.1: O: n_2_4_out, 1/0
+                   I: n_2_4, 1/1
+2024-10-20 13:31:39,470 [INFO]       n_5 - s.a.0: O: z_1, 1/0
+                   O: z_2, 0/0
+                   I: n_5, 1/0
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,470 [INFO]       n_5 - s.a.1: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/1
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,476 [INFO]     n_3_4 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,478 [INFO]     n_3_4 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,478 [INFO]     n_2_4 - s.a.0: O: n_2_4_out, 1/0
+                   I: n_2_4, 1/0
+2024-10-20 13:31:39,480 [INFO]     n_2_4 - s.a.1: O: n_2_4_out, 0/1
+                   I: n_2_4, 0/1
+2024-10-20 13:31:39,480 [INFO]       z_1 - s.a.0: O: z_1, 1/0
+                   I: n_6, 1/1
+2024-10-20 13:31:39,480 [INFO]       z_1 - s.a.1: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,490 [INFO]       n_4 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,494 [INFO]       n_4 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,499 [INFO]     n_9_1 - s.a.0: O: z_3, 1/1
+                   O: z_1, 1/1
+                   O: z_2, 0/1
+                   I: n_1_2, 1/1
+                   I: n_5, 1/1
+                   I: n_4, 1/1
+2024-10-20 13:31:39,502 [INFO]     n_9_1 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,502 [INFO]       n_6 - s.a.0: O: z_1, 1/0
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 1/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,502 [INFO]       n_6 - s.a.1: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/1
+                   I: n_1, 1/1
+2024-10-20 13:31:39,502 [INFO]    n_6_1_ - s.a.0: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,509 [INFO]    n_6_1_ - s.a.1: O: z_1, 1/0
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 1/1
+                   I: n_1, 1/1
+2024-10-20 13:31:39,510 [INFO]    n_3_2_ - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,510 [INFO]    n_3_2_ - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,518 [INFO]     n_t_2 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,523 [INFO]     n_t_2 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,523 [INFO]     n_1_3 - s.a.0: O: z_4, 0/0
+                   O: n_9_44, 1/1
+                   O: n_8_44, 0/1
+                   I: n_1_3, 1/0
+                   I: n_2_2, 0/0
+                   I: n_2_3, 1/1
+2024-10-20 13:31:39,526 [INFO]     n_1_3 - s.a.1: O: z_4, 0/0
+                   O: n_9_44, 1/1
+                   O: n_8_44, 1/0
+                   I: n_1_3, 0/1
+                   I: n_2_2, 0/0
+                   I: n_2_3, 1/1
+2024-10-20 13:31:39,530 [INFO]    n_9_33 - s.a.0: O: z_3, 1/1
+                   O: z_4, 0/1
+                   O: n_9_44, 1/1
+                   I: n_1_2, 1/1
+                   I: n_1_4, 1/1
+                   I: n_2_2, 1/1
+2024-10-20 13:31:39,535 [INFO]    n_9_33 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,535 [INFO]    n_5_3_ - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,539 [INFO]    n_5_3_ - s.a.1: O: z_3, 1/0
+                   O: z_4, 0/0
+                   O: z_2, 0/0
+                   I: n_1_2, 1/1
+                   I: n_1_3, 1/1
+                   I: n_2, 1/1
+                   I: n_1, 1/1
+2024-10-20 13:31:39,543 [INFO]       z_4 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,543 [INFO]       z_4 - s.a.1: O: z_4, 0/1
+                   I: n_2_2, 0/0
+2024-10-20 13:31:39,545 [INFO]    n_3_4_ - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,551 [INFO]    n_3_4_ - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,585 [INFO]       n_2 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,618 [INFO]       n_2 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,619 [INFO]    n_5_1_ - s.a.0: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,619 [INFO]    n_5_1_ - s.a.1: O: z_1, 1/0
+                   O: z_2, 0/0
+                   I: n_5, 1/1
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,642 [INFO]     n_t_1 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,660 [INFO]     n_t_1 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,670 [INFO]     n_3_2 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,695 [INFO]     n_3_2 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,698 [INFO]    int1_2 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,699 [INFO]    int1_2 - s.a.1: O: z_3, 1/1
+                   O: z_2, 0/1
+                   I: n_1_2, 1/1
+                   I: n_4, 0/0
+2024-10-20 13:31:39,703 [INFO]       z_2 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,703 [INFO]       z_2 - s.a.1: O: z_2, 0/1
+                   I: n_4, 0/0
+2024-10-20 13:31:39,711 [INFO] n_2_2_out - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,719 [INFO] n_2_2_out - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,719 [INFO]    n_6_3_ - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,726 [INFO]    n_6_3_ - s.a.1: O: z_3, 1/0
+                   O: z_4, 0/0
+                   O: z_2, 0/0
+                   I: n_1_2, 0/0
+                   I: n_1_3, 1/1
+                   I: n_2, 0/0
+2024-10-20 13:31:39,730 [INFO]    int2_3 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,730 [INFO]    int2_3 - s.a.1: O: z_3, 1/0
+                   I: n_2, 0/0
+2024-10-20 13:31:39,736 [INFO]    n_9_44 - s.a.0: O: n_9_44, 1/0
+                   I: n_1_4, 1/1
+2024-10-20 13:31:39,736 [INFO]    n_9_44 - s.a.1: O: z_4, 0/0
+                   O: n_9_44, 0/1
+                   O: n_8_44, 1/1
+                   I: n_1_4, 0/0
+                   I: n_2_3, 0/0
+2024-10-20 13:31:39,739 [INFO]     n_t_3 - s.a.0: O: z_4, 0/0
+                   O: n_8_44, 1/0
+                   I: n_1_3, 1/1
+                   I: n_2_3, 0/0
+2024-10-20 13:31:39,739 [INFO]     n_t_3 - s.a.1: O: z_4, 0/0
+                   O: n_8_44, 0/1
+                   I: n_1_3, 1/1
+                   I: n_2_3, 1/1
+2024-10-20 13:31:39,744 [INFO]     n_1_4 - s.a.0: O: z_4, 1/0
+                   O: n_9_44, 1/0
+                   O: n_8_44, 1/1
+                   I: n_1_4, 1/0
+                   I: n_2_3, 0/0
+2024-10-20 13:31:39,758 [INFO]     n_1_4 - s.a.1: O: z_4, 0/1
+                   O: n_9_44, 0/1
+                   O: n_8_44, 1/1
+                   I: n_1_4, 0/1
+                   I: n_2_3, 0/0
+2024-10-20 13:31:39,762 [INFO]    int1_4 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,767 [INFO]    int1_4 - s.a.1: O: z_4, 0/1
+                   O: n_9_44, 1/1
+                   I: n_1_4, 1/1
+                   I: n_2_2, 0/0
+2024-10-20 13:31:39,771 [INFO]    n_5_4_ - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,773 [INFO]    n_5_4_ - s.a.1: O: z_3, 1/1
+                   O: z_4, 0/1
+                   O: n_9_44, 1/1
+                   I: n_1_2, 1/1
+                   I: n_1_4, 1/1
+                   I: n_2_2, 1/1
+2024-10-20 13:31:39,781 [INFO]     n_8_2 - s.a.0: O: z_3, 1/0
+                   O: z_4, 0/0
+                   O: z_2, 0/0
+                   I: n_1_2, 0/0
+                   I: n_1_3, 1/1
+                   I: n_2, 0/0
+2024-10-20 13:31:39,786 [INFO]     n_8_2 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,795 [INFO]     n_2_1 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,803 [INFO]     n_2_1 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,809 [INFO]       n_1 - s.a.0: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 1/0
+2024-10-20 13:31:39,809 [INFO]       n_1 - s.a.1: O: z_1, 1/0
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 0/1
+2024-10-20 13:31:39,815 [INFO]    n_3_1_ - s.a.0: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,817 [INFO]    n_3_1_ - s.a.1: O: z_1, 1/0
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 0/0
+2024-10-20 13:31:39,820 [INFO]    int2_1 - s.a.0: O: z_1, 0/1
+                   O: z_2, 0/0
+                   I: n_5, 0/0
+                   I: n_6, 0/0
+                   I: n_1, 1/1
+2024-10-20 13:31:39,820 [INFO]    int2_1 - s.a.1: O: z_1, 1/0
+                   I: n_6, 1/1
+2024-10-20 13:31:39,827 [INFO]    n_6_2_ - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,829 [INFO]    n_6_2_ - s.a.1: O: z_3, 1/1
+                   O: z_1, 1/1
+                   O: z_2, 0/1
+                   I: n_1_2, 1/1
+                   I: n_4, 0/0
+                   I: n_1, 0/0
+2024-10-20 13:31:39,840 [INFO]     n_2_2 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,841 [INFO]     n_2_2 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,849 [INFO]     n_3_3 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,852 [INFO]     n_3_3 - s.a.1: No D-algorithm assignment found.
+2024-10-20 13:31:39,852 [INFO]    int1_3 - s.a.0: No D-algorithm assignment found.
+2024-10-20 13:31:39,854 [INFO]    int1_3 - s.a.1: O: z_3, 1/0
+                   O: z_4, 0/0
+                   I: n_1_3, 1/1
+                   I: n_2, 0/0
+2024-10-20 13:31:39,855 [INFO]     n_2_3 - s.a.0: O: z_4, 0/0
+                   O: n_8_44, 0/1
+                   I: n_1_3, 1/1
+                   I: n_2_3, 1/0
+2024-10-20 13:31:39,857 [INFO]     n_2_3 - s.a.1: O: z_4, 0/0
+                   O: n_8_44, 1/0
+                   I: n_1_3, 1/1
+                   I: n_2_3, 0/1
+2024-10-20 13:31:39,860 [INFO]    n_8_44 - s.a.0: O: n_8_44, 1/0
+                   I: n_2_3, 0/0
+2024-10-20 13:31:39,863 [INFO]    n_8_44 - s.a.1: O: z_4, 0/0
+                   O: n_9_44, 1/1
+                   O: n_8_44, 0/1
+                   I: n_1_3, 1/1
+                   I: n_2_3, 1/1
+2024-10-20 13:31:39,865 [INFO] Simulation completed.
